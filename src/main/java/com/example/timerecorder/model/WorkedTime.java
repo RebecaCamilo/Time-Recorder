@@ -9,6 +9,6 @@ public class WorkedTime {
     private LocalTime startTime;
     private LocalTime endTime;
     private Duration duration;
-    private String description;
+    private String activityDescription;
 
 }

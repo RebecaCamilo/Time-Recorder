@@ -6,7 +6,7 @@ import java.util.List;
 public class WorkedDay {
 
     private Long id;
-    private LocalDate data;
+    private LocalDate day;
     private List<WorkedTime> workedTimes;
 
 }
